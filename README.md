@@ -33,7 +33,7 @@ gcc -o life game_of_life.c -lncurses
 2. Запустите с одним из начальных состояний:
 
 ```bash
-./life < patterns/field_1.txt 
+./life < field_1.txt 
 ```
 
 Доступные начальные паттерны:
